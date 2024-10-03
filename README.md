@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Hello everyone!! I'm Dev Dhanadiya, a high school student who attains dopamine via writing code.<br>I've several projects in my Github. Currently developing "Olympus" which is a web application with a ton of use cases and real world application. It requires a lot of time to complete.<br>Looking for people who are willing to engage for collaborative coding.<br>
+Hello everyone!! I'm Dev Dhanadiya, a technical enthusiast who attains dopamine via writing code.<br>I've several projects in my Github. Currently developing "Olympus" which is a web application with a ton of use cases and real world application. It requires a lot of time to complete.<br>Looking for people who are willing to engage for collaborative coding.<br>
 
 
 ## 🌐 Socials:
